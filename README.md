@@ -60,7 +60,7 @@ I contribute to projects like **Kubernetes**, **Terraform**, **Chef**, **Foreman
 ## 💬 Beyond Code
 
 🌐 [kirill.sh](https://kirill.sh) — thoughts on daily systems, travelling and longevity 
-📷 [Instagram](https://www.instagram.com/sinmoods/) — bursts of content from regular trips around the world 
+📷 [Instagram](https://www.instagram.com/sinmoods/) — bursts of content from regular trips around the world
 🚴‍♂️ [Strava](https://www.strava.com/athletes/25940264) — pain, sweat, and elevation  
 🐦 [X/Twitter](https://x.com/Fodoj) — sporadic thoughts and commentary in 280 characters or less  
 
