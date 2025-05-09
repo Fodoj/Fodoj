@@ -1,6 +1,6 @@
 # Servus!
 
-🎯 **Cloud & DevOps Consultant** | 🎙 **Podcast Host** | 🛠 **Open Source Contributor** | 🧘‍♂️ **Philosopher Dev** | 🚴‍♂️ **Cyclist with Strava receipts**
+🎯 **Cloud & DevOps Consultant** | 🎙 **Podcast Host** | 👷‍♂️ **Life & Work Systems Builder** | 🛠 **Open Source Contributor** | 🚴‍♂️ **Cyclist with Strava receipts**
 
 ---
 
